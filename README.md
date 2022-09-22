@@ -182,7 +182,8 @@ ResNet은 [ILSVRC](https://www.image-net.org/challenges/LSVRC/)(ImageNet Large S
 
 <br>
 
-## 본인(김기동) 기여 목록
+## 본인(김기동) 기여 목록 및 사용 패키지
+1. 기여 목록
 ### FE
 - Header, Community, Home, Intro, Landmark 반응형 페이지 제작
 
@@ -191,6 +192,20 @@ ResNet은 [ILSVRC](https://www.image-net.org/challenges/LSVRC/)(ImageNet Large S
 - tour, community, review MVP 기능 구현
 - community, review MVP 유효성/무결성 체크 코드 추가
 - mongoDB를 통한 데이터 관리
+
+2. 사용 패키지
+### FE
+- styled-components
+- react-quill
+
+### BE
+- express
+- multer
+- axios
+- joi
+- jsonwebtoken
+- jest
+- swagger
 
 ## 9. 버전
 - 1.0.0
